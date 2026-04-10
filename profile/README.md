@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7b3YRtNxTE)
+
 # Artisyn.io
 
 ## Find Artisans Near You
@@ -14,6 +16,14 @@ Many artisans lack a platform to help them get noticed; meanwhile, numerous peop
 - 🖼️ [Figma Design](https://www.figma.com/design/sJH5KPGVZ170uyFGx8qR0y/Artisyn---Find-Artisans-Near-You)
 - 📚 [API Documentation](https://artisyn.apidog.io)
 - [![Telegram](https://core.telegram.org/img/favicon-16x16.png) Telegram Channel](http://t.me/@artisynOD)
+
+# Tride
+
+## Intercity Carpooling on Stellar
+
+Tride is a non-custodial, escrow-based intercity carpooling marketplace built on Stellar, enabling drivers to monetize empty seats and passengers to book verified rides with transparent payments and enforceable cancellation rules.
+
+> Learn More: https://tride-app.github.io/project
 
 ## Contribution Guide
 
