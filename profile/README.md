@@ -23,7 +23,7 @@ Many artisans lack a platform to help them get noticed; meanwhile, numerous peop
 
 Tride is a non-custodial, escrow-based intercity carpooling marketplace built on Stellar, enabling drivers to monetize empty seats and passengers to book verified rides with transparent payments and enforceable cancellation rules.
 
-> Learn More: https://tride-app.github.io/project
+> Learn More: https://artisyn-io.github.io/tride-project/
 
 ## Contribution Guide
 
